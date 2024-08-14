@@ -30,11 +30,12 @@ body{
   .head-text {
     font-size: 0.4em; }
   p {
-    font-size: 12px;
+    font-size: 14px;
   } 
   footer li a{
-    font-size: 12px;
-  }}
+    font-size: 14px;
+  }
+}
 
 @media (max-width: 992px) and (min-width: 767.98px) {
     .head-text {
