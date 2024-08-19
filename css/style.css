@@ -1,6 +1,10 @@
 body{
     font-family: "Montserrat", "Noto Sans", "Open San";
 }
+#languageSwitcher a{
+  text-decoration: none;
+  color: #303030;
+}
 .nav-link {
     transition: all 0.5s;
     color: #303030;
